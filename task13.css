@@ -1,0 +1,25 @@
+.continer{
+    display: flex;
+    flex-direction:column ;
+    width: 95vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+body{
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB34tBm9J_oW30pCwul1Wi3FN2wU4LGsrX3g&usqp=CAU");
+}
+input{
+    margin: 20px;
+    padding: 1rem;
+    font-size: large;
+    border: 5px solid rgb(0, 195, 255);
+}
+output{
+    margin: 20px;
+    padding: 1 rem;
+}
+button{
+    padding: 1rem;
+    border: 5px solid black;
+}
