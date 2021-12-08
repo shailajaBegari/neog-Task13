@@ -13,7 +13,7 @@ input{
     margin: 20px;
     padding: 1rem;
     font-size: large;
-    border: 5px solid rgb(0, 195, 255);
+    border: 2px solid rgb(0, 195, 255);
 }
 output{
     margin: 20px;
@@ -21,7 +21,7 @@ output{
 }
 button{
     padding: 1rem;
-    border: 5px solid black;
+    border: 2px solid black;
 }
 ul li{
     display: inline;
